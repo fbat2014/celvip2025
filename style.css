@@ -13,13 +13,13 @@ img{
   border: solid 1px black;
 }
 .cinzaEscuro{
+  text-align: center;
   top: 50%;
   margin-top: -300px;
   width: 250px;
   height: 60px;
   right: 350px;
-  position: absolute;top: 20px; left: 20px;
-             outline: 1px solid #444;
+  position: absolute;
 }
 b{
   position: relative;
