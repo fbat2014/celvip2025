@@ -17,8 +17,12 @@ img{
   margin-top: -300px;
   width: 250px;
   height: 60px;
-  right: 350px;
+  right: 750px;
   position: absolute;
+}
+b{
+  position: relative;
+  top: 10px;
 }
 .preto{
   border: solid 2px;
@@ -52,4 +56,25 @@ img{
   border-radius: 5px;
   height: 30px;
   width: 50px;
+}
+.teclado{
+  font-size: 11px;
+  position: absolute;
+  bottom: 20px;
+  left: 5px;
+  color: black;
+}
+.branco{
+  height: 40px;
+  width: 75px;
+}
+.laranja{
+  height: 40px;
+  width: 75px;
+  background-color: #E67401;
+}
+.verde{
+  height: 50px;
+  width: 75px;
+  background-color: green;
 }
