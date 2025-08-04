@@ -13,7 +13,7 @@ img{
   border: solid 1px black;
 }
 .cinzaEscuro{
-  top: 50%;
+  top: 40%;
   margin-top: -300px;
   width: 250px;
   height: 60px;
@@ -78,3 +78,4 @@ b{
   width: 75px;
   background-color: green;
 }
+
